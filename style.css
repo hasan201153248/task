@@ -1,3 +1,29 @@
-.btn-primary{
-  background-color: blue;
+.bground{
+  background: #E6E6E6;
+}
+.hpara{
+  font-size:75px;
+  font-weight: 1600;
+  margin-top: 150px;
+  margin-left: 150px;
+  
+
+}
+.fparagraph{
+  color: gray;
+  margin-left: 150px;
+  margin-top: 15px;
+}
+.box{
+  
+    background-color: #E55473;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 150px;
+    margin-top: 15px;
+  
+  
 }
