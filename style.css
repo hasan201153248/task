@@ -1,5 +1,6 @@
-.bground {
-  background: #FFDDF7;
+.b-block{
+  background-color: #FFDDF7;
+  margin-bottom: 0;
 }
 
 .body {
@@ -12,7 +13,6 @@
 
 .hpara {
   font-size: 75px;
-  
   margin-top: 150px;
 }
 
@@ -34,15 +34,64 @@
 .right-side {
   display: flex;
   justify-content: center;
-  max: width 50%;
-  height:25%;
+  width: 50%;
+  height: 25%;
 }
 
-.img  {
+  
+
+
+.img {
   max-width: 100%;
   height: auto;
+  margin-bottom: 0;
 }
-.bonus{
-  margin-top: 150px;
-  align-items: center;
+
+.white {
+  background: white;
+  background-color: white;
+  padding-top: 200px;
+}
+
+.feature {
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 90px;
+}
+
+.new {
+  color: darkslategrey;
+  text-align: center;
+}
+.attempt{
+  background: #FFDDF7;
+  background-color: white;
+}
+.photos{
+  display:flex;
+  
+    margin-top: 5px;
+    text-align: center;
+    padding: 30px;
+  }
+
+.six  {
+      padding-right: 90px;
+
+  padding-left: 90px;
+  margin-bottom: 40px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  
+}
+.five{
+  padding-left: 90px;
+  margin-bottom: 5px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.seven{
+  margin-bottom: 100px;
+  padding-bottom: 100px;
 }
